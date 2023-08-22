@@ -1,5 +1,5 @@
 import React from "react";
-import { city, username } from "/src/data/user";
+import { city, username } from "src/data/user";
 
 function Home() {
   return (
